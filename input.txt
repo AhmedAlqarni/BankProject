@@ -1,0 +1,7 @@
+1007		Ahmad Said		503.5
+1004		Fatima Hassan		58000.0
+1003		Suleiman Wasim		15705.5
+1002		Majed Sameer		22000.0
+1006		Muhammad Adel		250600.5
+1005		Muhsim Zuheir		5000.5
+1001		Aisha Abdullah		1349000.5
